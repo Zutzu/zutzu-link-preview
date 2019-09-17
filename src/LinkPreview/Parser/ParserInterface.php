@@ -1,9 +1,10 @@
 <?php
 
-namespace LinkPreview\Parser;
+namespace LinkPreview\src\LinkPreview\Parser;
 
-use LinkPreview\Model\LinkInterface;
-use LinkPreview\Reader\ReaderInterface;
+use LinkPreview\src\LinkPreview\Model\LinkInterface;
+use LinkPreview\src\LinkPreview\Reader\ReaderInterface;
+
 
 /**
  * Interface ParserInterface

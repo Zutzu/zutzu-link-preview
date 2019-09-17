@@ -1,11 +1,12 @@
 <?php
 
-namespace LinkPreview\Reader;
+namespace LinkPreview\src\LinkPreview\Reader;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\RequestOptions;
 use GuzzleHttp\TransferStats;
-use LinkPreview\Model\LinkInterface;
+use LinkPreview\src\LinkPreview\Model\LinkInterface;
+
 
 /**
  * Class GeneralReader

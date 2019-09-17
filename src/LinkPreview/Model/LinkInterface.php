@@ -1,6 +1,6 @@
 <?php
 
-namespace LinkPreview\Model;
+namespace LinkPreview\src\LinkPreview\Model;
 
 /**
  * Interface LinkInterface
