@@ -1,11 +1,11 @@
 <?php
 
-namespace LinkPreview\src\LinkPreview\Parser;
+namespace src\LinkPreview\Parser;
 
-use LinkPreview\src\LinkPreview\Model\Link;
-use LinkPreview\src\LinkPreview\Model\LinkInterface;
-use LinkPreview\src\LinkPreview\Reader\GeneralReader;
-use LinkPreview\src\LinkPreview\Reader\ReaderInterface;
+use src\LinkPreview\Model\Link;
+use src\LinkPreview\Model\LinkInterface;
+use src\LinkPreview\Reader\GeneralReader;
+use src\Reader\ReaderInterface;
 use function mb_convert_encoding;
 
 /**

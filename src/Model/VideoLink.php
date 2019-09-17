@@ -1,6 +1,6 @@
 <?php
 
-namespace LinkPreview\src\LinkPreview\Model;
+namespace src\LinkPreview\Model;
 
 /**
  * Class VideoLink
