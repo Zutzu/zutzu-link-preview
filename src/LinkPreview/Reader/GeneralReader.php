@@ -1,12 +1,11 @@
 <?php
 
-namespace src\LinkPreview\Reader;
+namespace LinkPreview\Reader;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\RequestOptions;
 use GuzzleHttp\TransferStats;
-use src\LinkPreview\Model\LinkInterface;
-use src\Reader\ReaderInterface;
+use LinkPreview\Model\LinkInterface;
 
 
 /**

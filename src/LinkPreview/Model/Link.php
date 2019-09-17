@@ -1,6 +1,6 @@
 <?php
 
-namespace src\LinkPreview\Model;
+namespace LinkPreview\Model;
 
 /**
  * Class Link

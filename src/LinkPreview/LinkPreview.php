@@ -1,11 +1,11 @@
 <?php
 
-namespace src\LinkPreview;
+namespace LinkPreview;
 
-use src\LinkPreview\Model\LinkInterface;
-use src\LinkPreview\Parser\GeneralParser;
-use src\LinkPreview\Parser\ParserInterface;
-use src\LinkPreview\Parser\YoutubeParser;
+use LinkPreview\Model\LinkInterface;
+use LinkPreview\Parser\GeneralParser;
+use LinkPreview\Parser\ParserInterface;
+use LinkPreview\Parser\YoutubeParser;
 
 
 /**

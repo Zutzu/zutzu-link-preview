@@ -1,8 +1,8 @@
 <?php
 
-namespace src\Reader;
+namespace LinkPreview\Reader;
 
-use src\LinkPreview\Model\LinkInterface;
+use LinkPreview\Model\LinkInterface;
 
 /**
  * Interface ReaderInterface
