@@ -1,5 +1,5 @@
 {
-  "name": "kasp3r/link-preview",
+  "name": "arturssmirnovs/zutzu-link-preview",
   "type": "library",
   "description": "Link preview library for PHP",
   "keywords": [
@@ -7,7 +7,7 @@
     "url",
     "scraping"
   ],
-  "homepage": "http://github.com/kasp3r/link-preview",
+  "homepage": "https://github.com/arturssmirnovs/zutzu-link-preview",
   "license": "MIT",
   "authors": [
     {
